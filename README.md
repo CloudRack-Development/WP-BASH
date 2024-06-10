@@ -23,11 +23,6 @@ sudo apt update && sudo apt install wget -y && wget -L https://raw.githubusercon
 - Will work on just about every cloud provider ranging from Linode to DigitalOcean and more.
 - [`Dell r210 1U Racked Chasised Server`](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/R210-SpecSheet.pdf) | **( Ubuntu 18.04 )**
 - [`Dell r210 1U Racked Chasised Server`](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/R210-SpecSheet.pdf) | **( Ubuntu 22.04 )**
- 
-### CONSIDER DONATING TOWARDS MY PROJECTS
- - Like my work? Please donate @ [HERE](https://donatebot.io/checkout/1154471425663574039?buyer=142025929454125056)
-   
-###  If you need help with this then please join my discord [**HERE**](https://join.cloudrack.ca)
 
 # INSTALLATION LOGS
 - These can be found simply by using the below command in another window well the installation performs.
