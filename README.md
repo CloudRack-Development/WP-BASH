@@ -17,7 +17,7 @@
 - To simply run this just copy and paste this into a fresh 18.04 Ubuntu or above server.
 - **( Must Be Run On A Clean Server - Base is Ubuntu18.04 And above )**
 ```shell
-sudo apt update && sudo apt install wget -y && wget -L https://raw.githubusercontent.com/cloudrack-ca/wp-bash/main/wp-bash.sh && clear && bash wp-bash.sh
+sudo apt update && sudo apt install wget -y && wget -L https://raw.githubusercontent.com/cloudrack-development/wp-bash/main/wp-bash.sh && clear && bash wp-bash.sh
 ```
 # CONFIRMED TO WORK ON THE FOLLOWING SYSTEM & OS 
 - Will work on just about every cloud provider ranging from Linode to DigitalOcean and more.
